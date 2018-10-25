@@ -72,9 +72,6 @@
             <version>${jstl.version}</version>
         </dependency>
 
-        <!-- Spring Security -->
-        <!-- spring-security-web and spring-security-config -->
-
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-web</artifactId>
@@ -87,7 +84,6 @@
             <version>${springsecurity.version}</version>
         </dependency>
 
-        <!-- Add Spring Security Taglibs support -->
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-taglibs</artifactId>

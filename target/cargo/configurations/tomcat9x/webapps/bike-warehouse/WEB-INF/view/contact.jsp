@@ -66,7 +66,6 @@
                         <h6 class="card-text">Chile</h6>
                         <p class="card-text">email: bikewarhouse@rapanui.com</p>
                         <p class="card-text">tel: +6788 547 345</p>
-                        <p class="card-text">email: bikewarhouse@rapanui.com</p>
                         <p class="card-text"><strong>Please place your orders by phone, or email only. You can also visit us directly</strong></p>
                       </div>
                     </div>
